@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleActivities</string>
+    <string name="TextInFirstActivity">FirstActivity</string>
+    <string name="TextInSecondActivity">Second Activity</string>
+    <string name="Pass">Pass Message</string>
+    <string name="TextInReceivedView">Default</string>
+</resources>
